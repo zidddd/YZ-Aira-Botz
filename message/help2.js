@@ -260,23 +260,8 @@ return`
 
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 : 
- ▢  : Dittaz
- ▢  : Nina kawai
- ▢  : Pemuda Teknologi
- ▢  : Zeeone ofc
- ▢  : Yudha Perdana
- ▢  : Yogi PW
- ▢  : Decode Denpa
- ▢  : Fernazer
- ▢  : Si onyet Diza
- ▢  : X - Far Dev
- ▢  : XChillDs & Yuzu
- ▢  : Arsky
- ▢  : Angga
- ▢  : Ruls
- ▢  : Vean
- ▢  : Diel
- ▢  : Penyedia Api & Module
+ ▢  : Muhammad Yazid Rabbani
+ ▢  : YZ|Aira-Botz
 
 `
 }
