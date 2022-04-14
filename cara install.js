@@ -1,6 +1,6 @@
                                                                                                                                                                                   /*
 Thanks udah make bot ini
-Jika ada error hubungi wa.me/6285156137901
+Jika ada error hubungi wa.me/6285694446148
 
 Railway : coba aja
 Heroku  : Support
